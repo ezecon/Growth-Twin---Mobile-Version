@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GrowthTwin</string>
+    <string name="app_tagline_bn">প্রতিটি জমির জন্য কৃষি বুদ্ধিমত্তা</string>
+    <string name="app_tagline_en">Agri intelligence for every field</string>
+    <string name="disclaimer_bn">এটি পরামর্শ মাত্র, চূড়ান্ত সিদ্ধান্ত আপনার।</string>
+    <string name="disclaimer_en">This is advice only; the final decision is yours.</string>
+</resources>

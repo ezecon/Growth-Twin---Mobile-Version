@@ -1,0 +1,6 @@
+{
+  "name": "GrowthTwin",
+  "description": "Precision farming digital twin, bilingual crop advisor, irrigation control, SolarFlow AI planner, Sentinel telemetry, Fair Market price checker, and Farmers' Trust for Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
